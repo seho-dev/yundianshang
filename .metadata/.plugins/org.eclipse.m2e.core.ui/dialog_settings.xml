@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.pinyougou"/>
+			<item value="cn.itcast.demo"/>
+			<item value="cn.itcast.sms"/>
+			<item value="cn.jcet.demo"/>
+			<item value="cn.tecast.demo"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="pinyougou-task-service"/>
+			<item value="pinyougou-parent"/>
+			<item value="pinyougou-seckill-web"/>
+			<item value="pinyougou-seckill-service"/>
+			<item value="pinyougou-seckill-interface"/>
+			<item value="pinyougou-pay-service"/>
+			<item value="pinyougou-pay-interface"/>
+			<item value="pinyougou-order-service"/>
+			<item value="pinyougou-order-interface"/>
+			<item value="pinyougou-cart-web"/>
+			<item value="pinyougou-cart-service"/>
+			<item value="pinyougou-cart-interface"/>
+			<item value="casclient_demo3"/>
+			<item value="casclient_demo2"/>
+			<item value="casclient_demo1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
+		<item value="480" key="width"/>
+		<item value="807" key="x"/>
+		<item value="0" key="y"/>
+		<item value="1030" key="height"/>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="480" key="width"/>
+		<item value="720" key="x"/>
+		<item value="71" key="y"/>
+		<item value="667" key="height"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\SSH\workspace_pingyougou\dysmsapi_demo_sdk__java\java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="pinyougou-task-service"/>
+			<item value="pinyougou-seckill-web"/>
+			<item value="pinyougou-seckill-service"/>
+			<item value="pinyougou-seckill-interface"/>
+			<item value="pinyougou-pay-service"/>
+			<item value="pinyougou-pay-interface"/>
+			<item value="pinyougou-order-service"/>
+			<item value="pinyougou-order-interface"/>
+			<item value="pinyougou-cart-web"/>
+			<item value="pinyougou-cart-service"/>
+			<item value="pinyougou-cart-interface"/>
+			<item value="pinyougou-user-web"/>
+			<item value="pinyougou-user-service"/>
+			<item value="pinyougou-user-interface"/>
+			<item value="pinyougou-page-web"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="E:\SSH\workspace_pingyougou\casclient_demo1"/>
+			<item value="E:\SSH\workspace_pingyougou\pinyougou-parent\pinyougou-user-service\src\main\java\com\pinyougou\user\service\impl\UserServiceImpl.java"/>
+			<item value="E:\SSH\workspace_pingyougou\dysmsapi_demo_sdk__java\java\api_sdk\aliyun-java-sdk-dysmsapi"/>
+			<item value="E:\SSH\workspace_pingyougou\pinyougou-parent\pinyougou-manager-web\src\main\java\com\pinyougou\manager\controller\GoodsController.java"/>
+			<item value="E:\SSH\workspace_pingyougou\pinyougou-parent\pinyougou-portal-web"/>
+			<item value="E:\SSH\workspace_pingyougou\pinyougou-parent\pinyougou-manager-web"/>
+			<item value="E:\SSH\workspace_pingyougou\dubboxdemo-web"/>
+			<item value="E:\SSH\workspace_pingyougou\dubboxdemo-service"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="org.pinyougou.task.service"/>
+		</list>
+		<list key="groupId">
+			<item value="com.pinyougou"/>
+		</list>
+		<list key="artifactId">
+			<item value="pinyougou-task-service"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

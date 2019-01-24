@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [20/Dec/2018:20:01:59 +0800] "GET / HTTP/1.1" 302 - http-bio-9002-exec-1 41
+0:0:0:0:0:0:0:1 - - [20/Dec/2018:20:05:00 +0800] "GET / HTTP/1.1" 302 - http-bio-9002-exec-1 31
+0:0:0:0:0:0:0:1 - - [20/Dec/2018:22:11:35 +0800] "GET / HTTP/1.1" 302 - http-bio-9002-exec-1 31
+0:0:0:0:0:0:0:1 - - [20/Dec/2018:22:11:43 +0800] "GET /?ticket=ST-2-WkXYuvVEFQXRcXbOpZBc-cas01.example.org HTTP/1.1" 302 - http-bio-9002-exec-3 1419
+0:0:0:0:0:0:0:1 - - [20/Dec/2018:22:11:43 +0800] "GET /;jsessionid=B4E65D761F8981D9B7AAD72B0AD000E0 HTTP/1.1" 200 350 http-bio-9002-exec-4 661
+0:0:0:0:0:0:0:1 - - [20/Dec/2018:22:11:43 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9002-exec-5 3
+0:0:0:0:0:0:0:1 - - [20/Dec/2018:22:13:33 +0800] "GET /;jsessionid=B4E65D761F8981D9B7AAD72B0AD000E0 HTTP/1.1" 200 302 http-bio-9002-exec-7 91
+0:0:0:0:0:0:0:1 - - [20/Dec/2018:22:13:48 +0800] "GET /;jsessionid=B4E65D761F8981D9B7AAD72B0AD000E0 HTTP/1.1" 200 313 http-bio-9002-exec-9 86
+0:0:0:0:0:0:0:1 - - [20/Dec/2018:22:13:49 +0800] "GET /;jsessionid=B4E65D761F8981D9B7AAD72B0AD000E0 HTTP/1.1" 200 313 http-bio-9002-exec-9 0
+0:0:0:0:0:0:0:1 - - [20/Dec/2018:22:18:19 +0800] "GET /?ticket=ST-3-5etKPJRszbXIBBAvqnnd-cas01.example.org HTTP/1.1" 302 - http-bio-9002-exec-4 18
+0:0:0:0:0:0:0:1 - - [20/Dec/2018:22:18:19 +0800] "GET / HTTP/1.1" 200 313 http-bio-9002-exec-4 1

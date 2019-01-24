@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;pinyougou-cart-web/src/main/webapp/log.html&apos; to &apos;login.html&apos;" description="Rename resource &apos;log.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/log.html" name="login.html" stamp="1545893384015" updateReferences="true"/>
+</session>

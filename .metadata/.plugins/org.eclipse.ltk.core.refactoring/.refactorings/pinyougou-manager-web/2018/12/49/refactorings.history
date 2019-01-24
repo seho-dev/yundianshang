@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;pinyougou-manager-web/src/main/resources/spring/applicationContext-jms-producer.xml&apos; to &apos;spring-jms.xml&apos;" description="Rename resource &apos;applicationContext-jms-producer.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/spring/applicationContext-jms-producer.xml" name="spring-jms.xml" stamp="1543847911544" updateReferences="true"/>
+</session>

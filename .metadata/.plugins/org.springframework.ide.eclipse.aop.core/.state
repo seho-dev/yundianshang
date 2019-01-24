@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="pinyougou-seckill-service"/>
+<aop-project name="casclient_demo3"/>
+<aop-project name="pinyougou-pay-service"/>
+<aop-project name="pinyougou-common"/>
+<aop-project name="pinyougou-search-service"/>
+<aop-project name="pinyougou-portal-web"/>
+<aop-project name="pinyougou-user-web"/>
+<aop-project name="pinyougou-order-service"/>
+<aop-project name="pinyougou-manager-web"/>
+<aop-project name="pinyougou-content-service"/>
+<aop-project name="pinyougou-shop-web"/>
+<aop-project name="itcast_sms_service"/>
+<aop-project name="pinyougou-cart-web"/>
+<aop-project name="pinyougou-search-web"/>
+<aop-project name="pinyougou-sellergoods-service"/>
+<aop-project name="pinyougou-user-service"/>
+<aop-project name="pinyougou-seckill-web"/>
+<aop-project name="pinyougou-page-service"/>
+<aop-project name="pinyougou-cart-service"/>
+<aop-project name="springBootDemo"/>
+</aop-reference-model>

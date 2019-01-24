@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: itcast_sms_service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ￩ﾲﾜ￧ﾣﾊ
+Implementation-Vendor-Id: cn.itcast.sms
+Build-Jdk: 1.8.0_73
+Implementation-URL: http://projects.spring.io/spring-boot/itcast_sms_s
+ ervice/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

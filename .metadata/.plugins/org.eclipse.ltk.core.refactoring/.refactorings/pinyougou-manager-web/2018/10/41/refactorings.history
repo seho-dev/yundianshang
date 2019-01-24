@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;pinyougou-manager-web&apos;&#x0D;&#x0A;- Original project: &apos;pinyougou-manager-web&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     config&#x0D;&#x0A;     spring" description="Delete elements" element1="src/main/resources/config" element2="src/main/resources/spring" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1539416583492" subPackages="false" version="1.0"/>
+</session>

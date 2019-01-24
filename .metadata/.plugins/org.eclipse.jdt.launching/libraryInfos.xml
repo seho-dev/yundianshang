@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="E:\Elicpse" version="1.8.0_73">
+<bootpath>
+<entry path="E:\Elicpse\jre\lib\resources.jar"/>
+<entry path="E:\Elicpse\jre\lib\rt.jar"/>
+<entry path="E:\Elicpse\jre\lib\sunrsasign.jar"/>
+<entry path="E:\Elicpse\jre\lib\jsse.jar"/>
+<entry path="E:\Elicpse\jre\lib\jce.jar"/>
+<entry path="E:\Elicpse\jre\lib\charsets.jar"/>
+<entry path="E:\Elicpse\jre\lib\jfr.jar"/>
+<entry path="E:\Elicpse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="E:\Elicpse\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="E:\Elicpse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="E:\Program Files\Java\jdk1.8.0_151" version="1.8.0_151">
+<bootpath>
+<entry path="E:\Program Files\Java\jdk1.8.0_151\jre\lib\resources.jar"/>
+<entry path="E:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar"/>
+<entry path="E:\Program Files\Java\jdk1.8.0_151\jre\lib\sunrsasign.jar"/>
+<entry path="E:\Program Files\Java\jdk1.8.0_151\jre\lib\jsse.jar"/>
+<entry path="E:\Program Files\Java\jdk1.8.0_151\jre\lib\jce.jar"/>
+<entry path="E:\Program Files\Java\jdk1.8.0_151\jre\lib\charsets.jar"/>
+<entry path="E:\Program Files\Java\jdk1.8.0_151\jre\lib\jfr.jar"/>
+<entry path="E:\Program Files\Java\jdk1.8.0_151\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="E:\Program Files\Java\jdk1.8.0_151\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="E:\Program Files\Java\jdk1.8.0_151\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SmsDemo.java&apos; to &apos;itcast_sms_service/src/main/java/cn.itcast.sms&apos;&#x0D;&#x0A;- Original project: &apos;alicom-dysms-api&apos;&#x0D;&#x0A;- Destination element: &apos;itcast_sms_service/src/main/java/cn.itcast.sms&apos;&#x0D;&#x0A;- Original element: &apos;com.alicom.dysms.api.SmsDemo.java&apos;" description="Copy compilation unit" destination="=itcast_sms_service/src\/main\/java&lt;cn.itcast.sms" element1="/src\/main\/java&lt;com.alicom.dysms.api{SmsDemo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1544529106472" units="1" version="1.0"/>
+</session>

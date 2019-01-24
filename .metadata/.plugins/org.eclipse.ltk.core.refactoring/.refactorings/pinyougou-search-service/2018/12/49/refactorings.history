@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;pinyougou-search-service/src/main/resources/spring/applicationContext-jms-consumer-queue.xml&apos; to &apos;applicationContext-jms-consumer.xml&apos;" description="Rename resource &apos;applicationContext-jms-consumer-queue.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/spring/applicationContext-jms-consumer-queue.xml" name="applicationContext-jms-consumer.xml" stamp="1543849245449" updateReferences="true"/>
+</session>
